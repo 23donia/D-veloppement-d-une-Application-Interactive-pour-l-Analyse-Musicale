@@ -18,17 +18,17 @@ MusicAnalyzer est une application interactive développée avec Streamlit qui pe
 
 ### Page d'accueil
 
-![Page d'accueil](./path_to_image/image1.png)
+![Page d'accueil](./path_to_image/file-JhCHo3GSDXiFF3jNoYNFmb.png)
 
 ### Tableau de bord interactif
 
 - **Popularité des genres musicaux**
 
-![Popularité des genres musicaux](./path_to_image/image2.png)
+![Popularité des genres musicaux](./path_to_image/file-Jh48nV9zq5Ms8KT3ffkyAx.png)
 
 - **Corrélations fortes entre variables**
 
-![Corrélations fortes entre variables](./path_to_image/image3.png)
+![Corrélations fortes entre variables](./path_to_image/file-R6X1UQMbtfgKtrjyERwYFj.png)
 
 ---
 
@@ -82,6 +82,10 @@ MusicAnalyzer est une application interactive développée avec Streamlit qui pe
 Vous pouvez tester l'application directement en ligne via ce [lien](https://your-deployment-link.com).
 
 ---
+
+
+
+
 
 
 
