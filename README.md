@@ -81,7 +81,7 @@ MusicAnalyzer est une application interactive développée avec Streamlit qui pe
 
 ## Lien vers l'application déployée
 
-Vous pouvez tester l'application directement en ligne via ce [lien](https://your-deployment-link.com).
+Vous pouvez tester l'application directement en ligne via ce [lien]([https://your-deployment-link.com](https://huggingface.co/spaces/dodo1234/MusicAnalyzer)).
 
 ---
 
