@@ -25,11 +25,12 @@ MusicAnalyzer est une application interactive développée avec Streamlit qui pe
 
 - **Popularité des genres musicaux**
 
-![Popularité des genres musicaux](./path_to_image/file-Jh48nV9zq5Ms8KT3ffkyAx.png)
+<img width="822" alt="image" src="https://github.com/user-attachments/assets/c0012eb5-d3bb-47d2-8265-8b41d5e670ec" />
+
 
 - **Corrélations fortes entre variables**
 
-![Corrélations fortes entre variables](./path_to_image/file-R6X1UQMbtfgKtrjyERwYFj.png)
+<img width="499" alt="image" src="https://github.com/user-attachments/assets/bf816b3c-06ee-41be-bbd6-60e586e9f75f" />
 
 ---
 
